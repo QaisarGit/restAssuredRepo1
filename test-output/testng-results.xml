@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-14T17:04:17 IST" name="Default suite" finished-at="2026-03-14T17:04:19 IST" duration-ms="1984">
+  <suite started-at="2026-03-14T17:17:12 IST" name="Default suite" finished-at="2026-03-14T17:17:14 IST" duration-ms="1842">
     <groups>
     </groups>
-    <test started-at="2026-03-14T17:04:17 IST" name="Default test" finished-at="2026-03-14T17:04:19 IST" duration-ms="1984">
+    <test started-at="2026-03-14T17:17:12 IST" name="Default test" finished-at="2026-03-14T17:17:14 IST" duration-ms="1842">
       <class name="restASSUREDpack.restASSUREDclass">
-        <test-method signature="restAssured()[pri:0, instance:restASSUREDpack.restASSUREDclass@2b62442c]" started-at="2026-03-14T17:04:17 IST" name="restAssured" finished-at="2026-03-14T17:04:19 IST" duration-ms="1961" status="PASS">
+        <test-method signature="getMeth()[pri:0, instance:restASSUREDpack.restASSUREDclass@34645867]" started-at="2026-03-14T17:17:12 IST" name="getMeth" description="get method 1" finished-at="2026-03-14T17:17:14 IST" duration-ms="1815" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- restAssured -->
+        </test-method> <!-- getMeth -->
       </class> <!-- restASSUREDpack.restASSUREDclass -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
