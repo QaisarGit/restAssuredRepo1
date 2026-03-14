@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-03-14T16:12:42 IST" name="Default suite" finished-at="2026-03-14T16:12:42 IST" duration-ms="49">
+  <suite started-at="2026-03-14T17:04:17 IST" name="Default suite" finished-at="2026-03-14T17:04:19 IST" duration-ms="1984">
     <groups>
     </groups>
-    <test started-at="2026-03-14T16:12:42 IST" name="Default test" finished-at="2026-03-14T16:12:42 IST" duration-ms="49">
+    <test started-at="2026-03-14T17:04:17 IST" name="Default test" finished-at="2026-03-14T17:04:19 IST" duration-ms="1984">
       <class name="restASSUREDpack.restASSUREDclass">
-        <test-method signature="restAssured()[pri:0, instance:restASSUREDpack.restASSUREDclass@6865c751]" started-at="2026-03-14T16:12:42 IST" name="restAssured" finished-at="2026-03-14T16:12:42 IST" duration-ms="12" status="PASS">
+        <test-method signature="restAssured()[pri:0, instance:restASSUREDpack.restASSUREDclass@2b62442c]" started-at="2026-03-14T17:04:17 IST" name="restAssured" finished-at="2026-03-14T17:04:19 IST" duration-ms="1961" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- restAssured -->
