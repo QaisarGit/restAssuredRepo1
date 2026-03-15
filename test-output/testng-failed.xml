@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restASSUREDpack.restASSUREDclass">
+      <class name="restAssuredBDDstyle.bddSTYLE">
         <methods>
-          <include name="restAssured"/>
+          <include name="bddResponse"/>
         </methods>
-      </class> <!-- restASSUREDpack.restASSUREDclass -->
+      </class> <!-- restAssuredBDDstyle.bddSTYLE -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

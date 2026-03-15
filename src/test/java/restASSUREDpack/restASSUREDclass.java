@@ -24,7 +24,7 @@ public class restASSUREDclass {
     }
 	@Test(description="get method 1")
 	
-	public void getMeth() {
+ 	public void getMeth() {
 		RestAssured.baseURI = "https://demoqa.com/BookStore/v1/Books";
 
 		// Get the RequestSpecification of the request that is to be sent
