@@ -19,6 +19,12 @@ public class getMethod {
 
 	        // Print the response body in a readable format
 	        System.out.println("Response body => " + response.prettyPrint());
+	        System.out.println("status code revceived =>"+response.statusCode());
+	        System.out.println("sucssess code revceived =>"+response.statusCode());
+	        System.out.println("status code revceived =>"+response.statusCode());
+
+
+	        
 	    }
 	}
 

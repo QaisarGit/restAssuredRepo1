@@ -24,7 +24,7 @@ public class bddSTYLE {
 	 @Test(description="response")
 	 public void bddResponse() {
 		 Response response = given()
-				    .baseUri("https://github.com/QaisarGit/") 
+				    .baseUri("https://github.com/QaisarGit/")  
 				    .when()
 				    .get("/restAssuredRepo1")
 				    .then() 
